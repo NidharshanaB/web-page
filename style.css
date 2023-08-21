@@ -1,0 +1,33 @@
+#header{
+    text-align: center;
+    border:2px solid rgb(205,193,128);
+    margin:0;
+    border-top: 2px solid rgb(205,193,128);
+}
+#address{
+    text-align: center;
+}
+
+img{
+    align-content: center;
+    display:block;
+    margin-bottom: 10px;
+}
+body{
+    background-color: black;
+    color:aliceblue;
+}
+#links{
+    color:rgb(205, 193, 128);
+}
+body{
+    background-image: url("https://img.freepik.com/free-photo/abstract-dark-background-with-flowing-colouful-waves_1048-13124.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#value{
+    color:rgb(205,193,128);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
